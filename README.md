@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/git](https://draculatheme.com/git).
+All instructions can be found at [revagomes.github.io/git](https://revagomes.github.io/git/) and later on at [draculatheme.com/git](https://draculatheme.com/git).
 
 ## Team
 
