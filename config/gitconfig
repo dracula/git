@@ -1,31 +1,52 @@
-# Local/private config goes in the include
+# INCLUDES
+# --------
+# Local/Private config goes in the include
 [include]
   path = ~/.gitconfig.local
+# URL ALIASES
+# -----------
+# Alias for Dracula Org repositories
+[url "https://github.com/dracula/"]
+  insteadOf = dracula://
+# COLORS
+# ------
+# Dracula Dark Theme
 [color]
   ui = auto
 [color "branch"]
   current = cyan bold reverse
   local = white
   plain =
-  remote = red
+  remote = cyan
 [color "diff"]
   commit =
   func =
   plain =
-  whitespace = red reverse
+  whitespace = magenta reverse
   meta = white
   frag = cyan bold reverse
   old = red
   new = green
 [color "grep"]
+  context =
+  filename =
+  function =
+  linenumber = white
+  match =
+  selected =
+  separator =
 [color "interactive"]
+  error =
+  header =
+  help =
+  prompt =
 [color "status"]
-  added = green bold
+  added = green
   changed = white
   header =
   localBranch =
   nobranch =
-  remoteBranch =
-  unmerged = red bold reverse
+  remoteBranch = cyan bold
+  unmerged = magenta bold reverse
   untracked = red
-  updated = green
+  updated = green bold
