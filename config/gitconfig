@@ -20,7 +20,7 @@
   remote = cyan
 [color "diff"]
   commit =
-  func =
+  func = cyan
   plain =
   whitespace = magenta reverse
   meta = white
