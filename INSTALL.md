@@ -9,19 +9,15 @@ Due to the limitation on colors availablility, it appears the best option is to 
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    git clone https://github.com/revagomes/git-cli.git
-
-or maybe in the future at :)
-
-    git clone https://github.com/dracula/git-cli.git
+    git clone https://github.com/dracula/git.git
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/revagomes/git-cli/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/dracula/git/archive/master.zip) option and unzip them.
 
 #### Activating theme
 
-1. Install the [Dracula theme](https://draculatheme.com/) on your terminal.
+1. Install the Dracula theme on your terminal.
 - [Alacritty](https://draculatheme.com/alacritty)
 - [Fluent Terminal](https://draculatheme.com/fluent-terminal)
 - [Foot](https://draculatheme.com/foot-terminal)
