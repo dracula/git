@@ -29,6 +29,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/git/archive
 - [Terminator](https://draculatheme.com/terminator)
 - [Termite](https://draculatheme.com/termite)
 - [Termux](https://draculatheme.com/termux)
+- [WezTerm](https://draculatheme.com/wezterm)
 - [Windows Terminal](https://draculatheme.com/windows-terminal)
 - [Xfce4 Terminal](https://draculatheme.com/xfce4-terminal)
 
