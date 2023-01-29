@@ -15,6 +15,15 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 Download using the [GitHub .zip download](https://github.com/dracula/git/archive/master.zip) option and unzip them.
 
+#### Install using [Homebrew](https://brew.sh)
+
+Easily install from [dracula/homebrew-install](https://github.com/dracula/homebrew-install/blob/main/Formula/dracula-git.rb):
+
+    brew tap dracula/install
+    brew install --formula dracula-git
+    # then, to activate:
+    git config --global include.path /usr/local/opt/dracula-git/gitconfig
+
 #### Activating theme
 
 1. Install the Dracula theme on your terminal.
